@@ -1,0 +1,5 @@
+https://movienc.herokuapp.com
+
+https://webseriesnc.herokuapp.com
+
+https://animenb.herokuapp.com
